@@ -10,25 +10,18 @@ I'm a self-aware composite life form comprised of trillions of interdependent mi
 
 # Skills
 ## Programming Languages
+<p>
 <img title="C" height="25" src="https://skillicons.dev/icons?i=c"> C
-
 <img title="C++" height="25" src="https://skillicons.dev/icons?i=cpp"> C++
-
-<img title="C#" height="25" src="https://skillicons.dev/icons?i=cs"> C#
-    
+<img title="C#" height="25" src="https://skillicons.dev/icons?i=cs"> C# 
 <img title="Rust" height="25" src="https://skillicons.dev/icons?i=rust"> Rust
-    
 <img title="Python" height="25" src="https://skillicons.dev/icons?i=python"> Python
-    
-<img title="Elisp" height="25" src="https://skillicons.dev/icons?i=emacs"> Elisp
-    
-<img title="Bash" height="25" src="https://skillicons.dev/icons?i=bash"> Bash
-    
+<img title="Elisp" height="25" src="https://skillicons.dev/icons?i=emacs"> Elisp   
+<img title="Bash" height="25" src="https://skillicons.dev/icons?i=bash"> Bash   
 <img title="Javascript" height="25" src="https://skillicons.dev/icons?i=javascript"> Javascript
-    
-<img title="HTML5" height="25" src="https://skillicons.dev/icons?i=html"> HTML5
-    
+<img title="HTML5" height="25" src="https://skillicons.dev/icons?i=html"> HTML5    
 <img title="CSS" height="25" src="https://skillicons.dev/icons?i=css"> CSS
+    </p>
     
 ## Automation
 - RobotFramework
