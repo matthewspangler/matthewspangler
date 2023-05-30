@@ -94,6 +94,8 @@
           <div><li>SELinux</li></div>
           </ul>
       </td>
+    </tr>
+      <tr>
       <td valign="top">
           <ul>
           <div><li>Proxmox</li></div>
@@ -115,7 +117,7 @@
           <div><li>Packaging for pacman, zypper, dnf, aptitude</li></div>
           <div><li>Flatpak packaging and sandboxing</li></div>
           </ul>
-      </td>
+        </td>
     </tr>
   </table>
   </details>
