@@ -15,6 +15,7 @@
           </p>
       </div>
     <h1>Skills</h1>
+    <details open>
     <table>
       <tr>
         <th>Programming Languages</th>
@@ -26,6 +27,7 @@
       </tr>
       <tr>
         <td valign="top">
+        <ul>
           <div>
             <img title="C" height="25" src="https://skillicons.dev/icons?i=c" alt="icons"> C
           </div>
@@ -56,8 +58,10 @@
           <div>
             <img title="CSS" height="25" src="https://skillicons.dev/icons?i=css" alt="icons"> CSS
           </div>
+          </ul>
         </td>
         <td valign="top">
+        <ul>
           <p><li>RobotFramework</li></p>
           <p><li>Ansible</li></p>
           <p><li>Selenium</li></p>
@@ -65,8 +69,10 @@
           <p><li>pandas</li></p>
           <p><li>requests</li></p>
           <p><li>BeautifulSoup</li></p>
+        </ul>
         </td>
         <td valign="top">
+            <ul>
             <p><li>Cisco iOS XE/XR/NXOS</li></p>
             <p><li>Mikrotik RouterOS</li></p>
             <p><li>Ubiquiti UniFi OS</li></p>
@@ -76,24 +82,30 @@
             <p><li>Clustering</li></p>
             <p><li>Load balancing</li></p>
             <p><li>High-availability</li></p>
+            </ul>
         </td>
         <td valign="top">
+            <ul>
             <p><li>Qubes OS</li></p>
             <p><li>Coreboot</li></p>
             <p><li>OpenPGP & GnuPG</li></p>
             <p><li>Air gapped systems</li></p>
             <p><li>Security tokens</li></p>
             <p><li>SELinux</li></p>
+            </ul>
         </td>
         <td valign="top">
+            <ul>
             <p><li>Proxmox</li></p>
             <p><li>Kubernetes</li></p>
             <p><li>Xenserver</li></p>
             <p><li>Docker</li></p>
             <p><li>Podman</li></p>
             <p><li>KVM</li></p>
+            </ul>
         </td>
         <td valign="top">
+            <ul>
             <p><li>Arch Linux</li></p>
             <p><li>Debian</li></p>
             <p><li>RHEL</li></p>
@@ -102,9 +114,11 @@
             <p><li>Declarative distros like NixOS and GuixSD</li></p>
             <p><li>Packaging for pacman, zypper, dnf, aptitude</li></p>
             <p><li>Flatpak packaging and sandboxing</li></p>
+            </ul>
         </td>
       </tr>
     </table>
+    </details>
     <h1>Hobbies</h1>
         <p><li>Custom ricing on 'nix </li></p>
         <p><li>Pixel art</li></p>
