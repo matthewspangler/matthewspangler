@@ -3,7 +3,7 @@
     <div align="center">
     <h1>Matthew Spangler</h1>
     <em>Software Engineer, Hacker, Musician, Philosopher</em>
-    <em>Ham Radio Callsign: KF5LDW</em>
+    <p><em>Ham Radio Callsign: KF5LDW</em></p>
       <p></p>
         <div>
         <a href="https://www.linkedin.com/in/mattspangler-tech/"><img height="30" src="https://skillicons.dev/icons?i=linkedin" alt="icons"></a> &nbsp;&nbsp; 
