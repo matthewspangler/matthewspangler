@@ -3,7 +3,7 @@
   <h3><i>Software Engineer, Hacker, Philosopher<i></h3>
   <a href="https://www.linkedin.com/in/mattspangler-tech/"><img height="30" src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;&nbsp;
   <a href="https://unix.stackexchange.com/users/572504/nebulasurfer/"><img height="30" src="https://skillicons.dev/icons?i=stackoverflow"></a>&nbsp;&nbsp;
-</divb>
+</div>
 
 # About Me
 I'm a self-aware composite life form comprised of trillions of interdependent microorganisms, a contemporary link in a 4 billion year self-replicating carbon-based chemical process.
