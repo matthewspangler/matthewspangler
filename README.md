@@ -5,12 +5,12 @@ I'm a self-aware composite life form comprised of trillions of interdependent mi
 - Python, C, C#, Javascript, Elisp, Lua, Ansible, Rust
 - Kubernetes, Docker, Podman
 - Clustering, high-availability, pentesting
-- 'nix operating systems and philosophy
+- 'Nix operating systems and philosophy
 - RPA, scraping, test automation, CI/CD pipelines
 
 # Interests
 - Custom ricing on Unix
 - Epistemology, philosophy of science
 - 80's synthesizers and jazz composition
-- ham radio & radio astronomy
-- physics & evolutionary biology
+- Ham radio & radio astronomy
+- Physics & evolutionary biology
