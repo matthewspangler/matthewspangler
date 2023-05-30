@@ -1,18 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
 <body>
   <div class="c1">
     <div align="center">
-    <h1>Matthew Spangler</h1>
-    <em>Software Engineer, Hacker, Musician, Philosopher</em> 
-        <div>
-        <a href="https://www.linkedin.com/in/mattspangler-tech/"><img height="30" src="https://skillicons.dev/icons?i=linkedin" alt="icons"></a> &nbsp;&nbsp; 
-        <a href="https://unix.stackexchange.com/users/572504/nebulasurfer/"><img height="30" src="https://skillicons.dev/icons?i=stackoverflow" alt="icons"></a> &nbsp;&nbsp;
-        </div>
+      <h1>Matthew Spangler</h1><em>Software Engineer, Hacker, Musician, Philosopher</em>
+      <div>
+        <a href="https://www.linkedin.com/in/mattspangler-tech/"><img height="30" src="https://skillicons.dev/icons?i=linkedin" alt="icons"></a> &nbsp;&nbsp; <a href="https://unix.stackexchange.com/users/572504/nebulasurfer/"><img height="30" src="https://skillicons.dev/icons?i=stackoverflow" alt="icons"></a> &nbsp;&nbsp;
+      </div>
     </div>
   </div>
-  <div><h3>About Me</h3> 
-    <p>I'm a self-aware composite life form comprised of trillions of interdependent microorganisms, a contemporary link in a 4 billion year self-replicating carbon-based chemical process.
-        </p>
-    </div>
+  <div>
+    <h3>About Me</h3>
+    <p>I'm a self-aware composite life form comprised of trillions of interdependent microorganisms, a contemporary link in a 4 billion year self-replicating carbon-based chemical process.</p>
+  </div>
   <h1>Skills</h1>
   <table>
     <tr>
@@ -58,25 +60,39 @@
       </td>
       <td valign="top">
         <div>
+          <ul>
             <li>RobotFramework</li>
+          </ul>
         </div>
         <div>
+          <ul>
             <li>Ansible</li>
+          </ul>
         </div>
         <div>
+          <ul>
             <li>Selenium</li>
+          </ul>
         </div>
         <div>
+          <ul>
             <li>OpenCV</li>
+          </ul>
         </div>
         <div>
+          <ul>
             <li>pandas</li>
+          </ul>
         </div>
         <div>
+          <ul>
             <li>requests</li>
+          </ul>
         </div>
         <div>
+          <ul>
             <li>BeautifulSoup</li>
+          </ul>
         </div>
       </td>
       <td valign="top">
@@ -234,16 +250,6 @@
       </td>
     </tr>
   </table>
-  <h1>Hobbie<h1>
-Custom ricing on 'nix 
-- Pixel art 
-- Roguelike games 
-- Epistemology 
-- Philosophy of science 
-- 80's synthesizers 
-- Jazz composition 
-- Physics 
-- Evolutionary biology 
-- Cybersecurity
+  <h1>Hobbie</h1>Custom ricing on 'nix - Pixel art - Roguelike games - Epistemology - Philosophy of science - 80's synthesizers - Jazz composition - Physics - Evolutionary biology - Cybersecurity
 </body>
 </html>
