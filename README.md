@@ -1,4 +1,4 @@
-Matthew Spangler
+<h1 align='center'>Matthew Spangler</h1>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/mattspangler-tech/"><img height="30" src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;&nbsp;
