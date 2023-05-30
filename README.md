@@ -22,8 +22,6 @@
       <th>Automation</th>
       <th>Networking</th>
       <th>Security</th>
-      <th>Virtualization</th>
-      <th>Nix</th>
     </tr>
     <tr>
       <td valign="top">
@@ -94,6 +92,10 @@
           <div><li>SELinux</li></div>
           </ul>
       </td>
+    </tr>
+    <tr>
+      <th>Virtualization</th>
+      <th>Nix</th>
     </tr>
       <tr>
       <td valign="top">
