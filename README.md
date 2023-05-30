@@ -2,15 +2,55 @@
 I'm a self-aware composite life form comprised of trillions of interdependent microorganisms, a contemporary link in a 4 billion year self-replicating carbon-based chemical process.
 
 # Skills
-- Python, C, C#, Javascript, Elisp, Lua, Ansible, Rust
-- Kubernetes, Docker, Podman
-- Clustering, high-availability, pentesting
-- 'Nix operating systems and philosophy
-- RPA, scraping, test automation, CI/CD pipelines
+## Programming Languages
+- Python
+- C/C++
+- C#
+- Javascript
+- Elisp
+- Lua
+- Rust
 
-# Interests
-- Custom ricing on Unix
-- Epistemology, philosophy of science
-- 80's synthesizers and jazz composition
-- Ham radio, radio astronomy
-- Physics, evolutionary biology
+## Automation
+- RobotFramework
+- Selenium
+- OpenCV
+- pandas
+- requests
+- BeautifulSoup
+
+## Networking
+- Cisco iOS XE/XR/NXOS
+- Mikrotik
+- Ubiquiti
+- pfSense & OPNSense
+- Clustering
+- Load balancing
+- High availability
+
+## Virtualization
+- Proxmox
+- Kubernetes
+- Xenserver
+- Docker
+- Podman
+- KVM
+
+## Nix
+- Arch Linux
+- Debian
+- RHEL
+- Immutable distros like Silverblue
+- Declarative distros like NixOS
+
+# Hobbies
+- Custom ricing on 'nix
+- Epistemology
+- Philosophy of science
+- 80's synthesizers
+- Jazz composition
+- Ham radio
+- Radio astronomy
+- Physics
+- Evolutionary biology
+- Cybersecurity
