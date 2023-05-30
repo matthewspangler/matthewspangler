@@ -12,5 +12,5 @@ I'm a self-aware composite life form comprised of trillions of interdependent mi
 - Custom ricing on Unix
 - Epistemology, philosophy of science
 - 80's synthesizers and jazz composition
-- Ham radio & radio astronomy
-- Physics & evolutionary biology
+- Ham radio, radio astronomy
+- Physics, evolutionary biology
