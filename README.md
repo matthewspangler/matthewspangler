@@ -10,7 +10,7 @@ I'm a self-aware composite life form comprised of trillions of interdependent mi
 
 # Skills
 ## Programming Languages
-    - <a src="https://skillicons.dev/icons?i=python"></a> Python
+- <a src="https://skillicons.dev/icons?i=python">Python</a> Python
 - C/C++
 - C#
 - Javascript
