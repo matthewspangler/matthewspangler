@@ -25,7 +25,7 @@
         <th>Nix</th>
       </tr>
       <tr>
-        <td>
+        <td valign="top">
           <div>
             <img title="C" height="25" src="https://skillicons.dev/icons?i=c" alt="icons"> C
           </div>
