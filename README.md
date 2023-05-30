@@ -96,7 +96,7 @@
     <tr>
       <th>Virtualization</th>
       <th>Nix</th>
-      <th>Electronics</th>
+      <th>Pentesting</th>
       <th></th>
     </tr>
       <tr>
@@ -123,16 +123,18 @@
         </td>
        <td valign="top">
          <ul>
-           <div><li> Raspberry Pi </li></div>
-           <div><li> Arduino </li></div>  
-           <div><li> Flipper Zero </li></div>  
-           <div><li> Radio circuitry </li></div>  
+           <div><li> Metasploit </li></div>
+           <div><li> Nmap </li></div>
+           <div><li> Wireshark </li></div>
+           <div><li> Flipper Zero </li></div>
+           <div><li> HackRF </li></div>
+           <div><li> BadUSB </li></div>
          </ul>
        </td>
     </tr>
   </table>
   </details>
-  <h1>Hobbies</h1>
+  <h1>Hobbies & Interests</h1>
       <div><li>Custom ricing on 'nix </li></div>
       <div><li>Pixel art</li></div>
       <div><li>Roguelike games </li></div>
