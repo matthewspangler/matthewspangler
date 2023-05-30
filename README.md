@@ -61,7 +61,7 @@ I'm a self-aware composite life form comprised of trillions of interdependent mi
 # Hobbies
 - Custom ricing on 'nix
 - Pixel art
-- Retro games
+- Roguelike games
 - Epistemology
 - Philosophy of science
 - 80's synthesizers
