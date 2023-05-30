@@ -10,7 +10,7 @@ I'm a self-aware composite life form comprised of trillions of interdependent mi
 
 # Skills
 ## Programming Languages
-<code><img title="C" height="25" src="images/c.svg](https://skillicons.dev/icons?i=c"></code>
+<code><img title="C" height="25" src="https://skillicons.dev/icons?i=c"></code>
 <code><img title="C++" height="25" src="https://skillicons.dev/icons?i=cpp"></code>
 <code><img title="C#" height="25" src="https://skillicons.dev/icons?i=cs"></code>
 <code><img title="Rust" height="25" src="https://skillicons.dev/icons?i=rust"></code>
@@ -18,7 +18,7 @@ I'm a self-aware composite life form comprised of trillions of interdependent mi
 <code><img title="Elisp" height="25" src="https://skillicons.dev/icons?i=emacs"></code>
 <code><img title="Bash" height="25" src="https://skillicons.dev/icons?i=bash"></code>
 <code><img title="Javascript" height="25" src="https://skillicons.dev/icons?i=javascript"></code>
-<code><img title="HTML5" height="25" src="https://skillicons.dev/icons?i=html5"></code>
+<code><img title="HTML5" height="25" src="https://skillicons.dev/icons?i=html"></code>
 <code><img title="CSS" height="25" src="https://skillicons.dev/icons?i=css"></code>
 
 ## Automation
