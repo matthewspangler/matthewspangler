@@ -3,6 +3,7 @@
     <div align="center">
     <h1>Matthew Spangler</h1>
     <em>Software Engineer, Hacker, Musician, Philosopher</em>
+    <em>Ham Radio Callsign: KF5LDW</em>
       <p></p>
         <div>
         <a href="https://www.linkedin.com/in/mattspangler-tech/"><img height="30" src="https://skillicons.dev/icons?i=linkedin" alt="icons"></a> &nbsp;&nbsp; 
@@ -136,7 +137,9 @@
          <ul>
            <div><li> Raspberry Pi </li></div>
            <div><li> Arduino </li></div>
+           <div><li> z80 circuits & asm </li></div>
            <div><li> Radio electronics </li></div>
+           <div><li> Pickit 4 </li></div>
          </ul>
        </td>
     </tr>
