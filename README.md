@@ -156,7 +156,8 @@
       <div><li>Physics </li></div>
       <div><li>Evolutionary biology </li></div>
       <div><li>Cybersecurity</li></div>
-  <h1>Favorite Books I Recommend</h1>
+  
+  <h1>Favorite Books</h1>
   <div><li>Pale Blue Dot by Carl Sagan</li></div>
   <div><li>The Anthropocene Reviewed by John Green</li></div>
   <div><li>The Rebel by Albert Camus</li></div>
