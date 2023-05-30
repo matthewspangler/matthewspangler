@@ -12,7 +12,7 @@
     </div>
   </div>
   <div><h3>About Me</h3> 
-    <p>I'm a self-aware composite life form comprised of trillions of interdependent microorganisms, a contemporary link in a 4 billion year self-replicating carbon-based chemical process.
+    <p>I'm a self-aware composite life form comprised of trillions of interdependent microorganisms, a contemporary link in a 4 billion year self-replicating carbon-based chemical process. I enjoy contemplating my place in the universe and unravelling the mysteries of complex systems.
         </p>
     </div>
   <h1>Skills</h1>
