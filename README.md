@@ -114,10 +114,9 @@
           <div><li>Debian</li></div>
           <div><li>RHEL</li></div>
           <div><li>openSUSE</li></div>
-          <div><li>Immutable distros like Silverblue</li></div>
-          <div><li>Declarative distros like NixOS and GuixSD</li></div>
-          <div><li>Packaging for pacman, zypper, dnf, aptitude</li></div>
-          <div><li>Flatpak packaging and sandboxing</li></div>
+          <div><li>Immutable systems</li></div>
+          <div><li>Declarative systems</li></div>
+          <div><li>Building packages</li></div>
           </ul>
         </td>
     </tr>
