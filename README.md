@@ -28,6 +28,14 @@ I'm a self-aware composite life form comprised of trillions of interdependent mi
 - Load balancing
 - High availability
 
+## Security
+- Qubes OS
+- Coreboot
+- OpenPGP & GnuPG
+- Air gapped systems
+- Security tokens
+- SELinux
+
 ## Virtualization
 - Proxmox
 - Kubernetes
@@ -45,6 +53,8 @@ I'm a self-aware composite life form comprised of trillions of interdependent mi
 
 # Hobbies
 - Custom ricing on 'nix
+- Pixel art
+- Retro games
 - Epistemology
 - Philosophy of science
 - 80's synthesizers
