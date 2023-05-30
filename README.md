@@ -97,7 +97,7 @@
       <th>Virtualization</th>
       <th>Nix</th>
       <th>Pentesting</th>
-      <th></th>
+      <th>Electronics</th>
     </tr>
       <tr>
       <td valign="top">
@@ -116,6 +116,7 @@
           <div><li>Debian</li></div>
           <div><li>RHEL</li></div>
           <div><li>openSUSE</li></div>
+          <div><li>FreeBSD</li></div>
           <div><li>Immutable systems</li></div>
           <div><li>Declarative systems</li></div>
           <div><li>Building packages</li></div>
@@ -129,6 +130,13 @@
            <div><li> Flipper Zero </li></div>
            <div><li> HackRF </li></div>
            <div><li> BadUSB </li></div>
+         </ul>
+       </td>
+       <td valign="top">
+         <ul>
+           <div><li> Raspberry Pi </li></div>
+           <div><li> Arduino </li></div>
+           <div><li> Radio electronics </li></div>
          </ul>
        </td>
     </tr>
