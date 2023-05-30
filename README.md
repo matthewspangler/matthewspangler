@@ -96,6 +96,8 @@
     <tr>
       <th>Virtualization</th>
       <th>Nix</th>
+      <th>Electronics</th>
+      <th></th>
     </tr>
       <tr>
       <td valign="top">
@@ -119,6 +121,14 @@
           <div><li>Building packages</li></div>
           </ul>
         </td>
+       <td valign="top">
+         <ul>
+           <div><li> Raspberry Pi </li></div>
+           <div><li> Arduino </li></div>  
+           <div><li> Flipper Zero </li></div>  
+           <div><li> Radio circuitry </li></div>  
+         </ul>
+       </td>
     </tr>
   </table>
   </details>
