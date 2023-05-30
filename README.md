@@ -1,5 +1,5 @@
 <h1 align='center'>Matthew Spangler</h1>
-
+Software Engineer, Hacker, Philosopher
 <p align='center'>
   <a href="https://www.linkedin.com/in/mattspangler-tech/"><img height="30" src="https://skillicons.dev/icons?i=linkedin"></a>&nbsp;&nbsp;
   <a href="https://unix.stackexchange.com/users/572504/nebulasurfer/"><img height="30" src="https://skillicons.dev/icons?i=stackoverflow"></a>&nbsp;&nbsp;
