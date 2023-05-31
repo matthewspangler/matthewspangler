@@ -28,34 +28,34 @@
       <td valign="top">
       <ul>
         <div>
-          <img title="C" height="25" src="https://skillicons.dev/icons?i=c" alt="icons"> C
+          <img title="C" height="25" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white" alt="icons">
         </div>
         <div>
-          <img title="C++" height="25" src="https://skillicons.dev/icons?i=cpp" alt="icons"> C++
+          <img title="C++" height="25" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="icons">
         </div>
         <div>
-          <img title="C#" height="25" src="https://skillicons.dev/icons?i=cs" alt="icons"> C#
+          <img title="C#" height="25" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="icons">
         </div>
         <div>
-          <img title="Rust" height="25" src="https://skillicons.dev/icons?i=rust" alt="icons"> Rust
+          <img title="Rust" height="25" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="icons"> 
         </div>
         <div>
-          <img title="Python" height="25" src="https://skillicons.dev/icons?i=python" alt="icons"> Python
+          <img title="Python" height="25" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="icons">
         </div>
         <div>
-          <img title="Elisp" height="25" src="https://skillicons.dev/icons?i=emacs" alt="icons"> Elisp
+          <img title="Elisp" height="25" src="https://img.shields.io/badge/Elisp-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white" alt="icons">
         </div>
         <div>
-          <img title="Bash" height="25" src="https://skillicons.dev/icons?i=bash" alt="icons"> Bash
+          <img title="Bash" height="25" src="https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="icons">
         </div>
         <div>
-          <img title="Javascript" height="25" src="https://skillicons.dev/icons?i=javascript" alt="icons"> Javascript
+          <img title="Javascript" height="25" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="icons">
         </div>
         <div>
-          <img title="HTML5" height="25" src="https://skillicons.dev/icons?i=html" alt="icons"> HTML5
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="icons">
         </div>
         <div>
-          <img title="CSS" height="25" src="https://skillicons.dev/icons?i=css" alt="icons"> CSS
+          <img title="CSS" height="25" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="icons">
         </div>
         </ul>
       </td>
@@ -109,6 +109,7 @@
           <div><li>Docker</li></div>
           <div><li>Podman</li></div>
           <div><li>KVM</li></div>
+          <div><li>Vagrant</li></div>
           </ul>
       </td>
       <td valign="top">
@@ -142,6 +143,18 @@
            <div><li> Pickit 4 </li></div>
          </ul>
        </td>
+    </tr>
+    <tr>
+      <th> Editors </th>
+    </tr>
+    <tr>
+      <td>
+        <div><li> Emacs </li></div>
+        <div><li> IntelliJ 4 </li></div>
+        <div><li> Visual Studio </li></div>
+        <div><li> Vim </li></div>
+        <div><li> Godot </li></div>
+      <td>
     </tr>
   </table>
   </details>
