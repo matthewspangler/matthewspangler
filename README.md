@@ -81,7 +81,7 @@
           <img title="HTML5" height="25" src="https://img.shields.io/badge/cisco_ios_xe%2Fxr%2Fnxos-%43B02A?style=for-the-badge&logo=cisco&logoColor=white&color=blue" alt="icons">
         </div>
         <div>
-          <img title="HTML5" height="25" src="https://img.shields.io/badge/mikrotik_routeros-%43B02A?style=for-the-badge&i&logoColor=white&color=black" alt="icons">
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/mikrotik_routeros-%43B02A?style=for-the-badge&i&logoColor=white&color=cyan" alt="icons">
         </div>
         <div>
           <img title="HTML5" height="25" src="https://img.shields.io/badge/ubiquiti_unifi_os-%43B02A?style=for-the-badge&logo=ubiquiti&logoColor=white&color=darkblue" alt="icons">
