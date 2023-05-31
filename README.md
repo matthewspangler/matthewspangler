@@ -14,7 +14,7 @@
     <p>I'm a self-aware composite life form comprised of trillions of interdependent microorganisms, a contemporary link in a 4 billion year self-replicating carbon-based chemical process. I am a curious being who enjoys contemplating how we fit into the grander scheme of things and how the world's many complex systems work.</p>
   </div>
   <h1>Skills</h1>
-  <details open="">
+  <details>
     <table>
       <tr>
         <th>Programming Languages</th>
@@ -214,7 +214,7 @@
     </table>
   </details>
   <h1>Custom Ricing</h1>
-  <details open="">
+  <details>
     <table>
       <tr>
         <th>i3wm</th>
