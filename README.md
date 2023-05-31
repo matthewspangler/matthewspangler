@@ -104,7 +104,7 @@
           <img title="HTML5" height="25" src="https://img.shields.io/badge/qubes_os-%43B02A?style=for-the-badge&logo=qubesos&logoColor=white&color=00B5E2" alt="icons">
         </div>
         <div>
-          <img title="HTML5" height="25" src="https://img.shields.io/badge/coreboot-%43B02A?style=for-the-badge&logo=coreboot&logoColor=white&color=00B5E2" alt="icons">
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/coreboot-%43B02A?style=for-the-badge&logo=coreboot&logoColor=white&color=grey" alt="icons">
         </div>
         <div>
           <img title="HTML5" height="25" src="https://img.shields.io/badge/gnupg-%43B02A?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&color=0093DD" alt="icons">
