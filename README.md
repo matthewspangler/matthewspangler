@@ -191,6 +191,7 @@
         <div><li> Zabbix </li></div>
         <div><li> Nagios </li></div>
         <div><li> Snort </li></div>
+        <div><li> Tripwire </li></div>
       </td>
     </tr>
   </table>
