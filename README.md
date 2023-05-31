@@ -143,7 +143,6 @@
         </div>
       </td>
       <td valign="top">
-          <ul>
         <div>
           <img title="HTML5" height="25" src="https://img.shields.io/badge/arch_linux-%43B02A?style=for-the-badge&logo=archlinux&logoColor=white&color=1793D1" alt="icons">
         </div>
@@ -173,7 +172,6 @@
           <img title="HTML5" height="25" src="https://img.shields.io/badge/flatpak-%43B02A?style=for-the-badge&logo=flatpak&logoColor=white&color=1793D1" alt="icons">
         </div>
          
-          </ul>
         </td>
        <td valign="top">
          <ul>
