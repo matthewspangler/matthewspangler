@@ -60,38 +60,52 @@
         </ul>
       </td>
       <td valign="top">
-      <ul>
-        <div><li>RobotFramework</li></div>
-        <div><li>Ansible</li></div>
-        <div><li>Selenium</li></div>
-        <div><li>OpenCV</li></div>
-        <div><li>pandas</li></div>
-        <div><li>requests</li></div>
-        <div><li>BeautifulSoup</li></div>
-      </ul>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/robotframework-%43B02A?style=for-the-badge&logo=robotframework&logoColor=white&color=00c0b5" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/ansible-%43B02A?style=for-the-badge&logo=ansible&logoColor=white&color=black" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/OpenCV-%43B02A?style=for-the-badge&logo=OpenCV&logoColor=lightgreen&color=blue" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/pandas-%43B02A?style=for-the-badge&logo=pandas&logoColor=white&color=darkblue" alt="icons">
+        </div>
       </td>
       <td valign="top">
-          <ul>
-          <div><li>Cisco iOS XE/XR/NXOS</li></div>
-          <div><li>Mikrotik RouterOS</li></div>
-          <div><li>Ubiquiti UniFi OS</li></div>
-          <div><li>Edgerouter EdgeOS</li></div>
-          <div><li>pfSense & OPNSense</li></div>
-          <div><li>OpenWRT</li></div>
-          <div><li>Clustering</li></div>
-          <div><li>Load balancing</li></div>
-          <div><li>High-availability</li></div>
-          </ul>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/cisco_ios_xe%2Fxr%2Fnxos-%43B02A?style=for-the-badge&logo=cisco&logoColor=white&color=blue" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/mikrotik_routeros-%43B02A?style=for-the-badge&i&logoColor=white&color=black" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/ubiquiti_unifi_os-%43B02A?style=for-the-badge&logo=ubiquiti&logoColor=white&color=darkblue" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/edgerouter_edge_os-%43B02A?style=for-the-badge&logoColor=white&color=black" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/pfsense-%43B02A?style=for-the-badge&logo=pfsense&logoColor=white&color=212121" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/opnsense-%43B02A?style=for-the-badge&logo=opnsense&logoColor=white&color=D94F00" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/openwrt-%43B02A?style=for-the-badge&logo=openwrt&logoColor=white&color=00B5E2" alt="icons">
+        </div>
       </td>
       <td valign="top">
-          <ul>
           <div><li>Qubes OS</li></div>
           <div><li>Coreboot</li></div>
           <div><li>OpenPGP & GnuPG</li></div>
           <div><li>Air gapped systems</li></div>
           <div><li>Security tokens</li></div>
           <div><li>SELinux</li></div>
-          </ul>
       </td>
     </tr>
     <tr>
