@@ -1,3 +1,4 @@
+ 
 
 <body>
   <div class="c1">
@@ -85,44 +86,37 @@
         </td>
         <td valign="top">
           <div>
-            <ul>
-              <li>Metasploit</li>
-            </ul>
+              <img title="HTML5" height="25" src="https://img.shields.io/badge/metasploit-%43B02A?style=for-the-badge&amp;logo=metasploit&amp;logoColor=white&amp;color=ED1C24" alt="icons">
           </div>
           <div>
-            <ul>
-              <li>Nmap</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/nmap-%43B02A?style=for-the-badge&amp;logo=nmap&amp;logoColor=white&amp;color=E1672D" alt="icons">
           </div>
           <div>
-            <ul>
-              <li>Wireshark</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/wireshark-%43B02A?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white&amp;color=1679A7" alt="icons">
           </div>
           <div>
-            <ul>
-              <li>Flipper Zero</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/ettercap-%43B02A?style=for-the-badge&amp;logo=ettercap&amp;logoColor=white&amp;color=000000" alt="icons">
           </div>
           <div>
-            <ul>
-              <li>HackRF</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/aircrack_ng-%43B02A?style=for-the-badge&amp;logo=aircrack-ng&amp;logoColor=white&amp;color=1679A7" alt="icons">
           </div>
           <div>
-            <ul>
-              <li>BadUSB</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/usb-%43B02A?style=for-the-badge&amp;logo=usb&amp;logoColor=white&amp;color=000000" alt="icons">
           </div>
         </td>
         <td valign="top">
-          <ul>
-            <li>Raspberry Pi</li>
-            <li>Arduino</li>
-            <li>z80 processors</li>
-            <li>Radio electronics</li>
-            <li>Pickit 4</li>
-          </ul>
+          <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/arduino-%43B02A?style=for-the-badge&amp;logo=arduino&amp;logoColor=white&amp;color=00979D" alt="icons">
+          </div>
+          <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/raspberry_pi-%43B02A?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white&amp;color=C51A4A" alt="icons">
+          </div>
+          <div>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/z80-%43B02A?style=for-the-badge&amp;logo=Z80&amp;logoColor=white&amp;color=000000" alt="icons">
+          </div>
+            <div>
+                <img title="HTML5" height="25" src="https://img.shields.io/badge/pickit4-%43B02A?style=for-the-badge&amp;logo=microchip&amp;logoColor=white&amp;color=000000" alt="icons">
+                </div>
         </td>
       </tr>
       <tr>
@@ -133,81 +127,53 @@
       </tr>
       <tr>
         <td valign="top">
+            <div>
+                <img title="HTML5" height="25" src="https://img.shields.io/badge/emacs-%43B02A?style=for-the-badge&amp;logo=gnuemacs&amp;logoColor=white&amp;color=7F5AB6" alt="icons">
+            </div>
           <div>
-            <ul>
-              <li>Emacs</li>
-            </ul>
+                <img title="HTML5" height="25" src="https://img.shields.io/badge/intellij-%43B02A?style=for-the-badge&amp;logo=intellijidea&amp;logoColor=white&amp;color=000000" alt="icons">
           </div>
           <div>
-            <ul>
-              <li>IntelliJ 4</li>
-            </ul>
+                <img title="HTML5" height="25" src="https://img.shields.io/badge/visual_studio_code-%43B02A?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white&amp;color=007ACC" alt="icons">
           </div>
           <div>
-            <ul>
-              <li>Visual Studio</li>
-            </ul>
-          </div>
+                <img title="HTML5" height="25" src="https://img.shields.io/badge/vim-%43B02A?style=for-the-badge&amp;logo=vim&amp;logoColor=white&amp;color=019733" alt="icons">
+            </div>
           <div>
-            <ul>
-              <li>Vim</li>
-            </ul>
-          </div>
-          <div>
-            <ul>
-              <li>Godot</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/godot-%43B02A?style=for-the-badge&amp;logo=godotengine&amp;logoColor=white&amp;color=478CBF" alt="icons">
           </div>
         </td>
         <td valign="top">
           <div>
-            <ul>
-              <li>Jenkins</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/jenkins-%43B02A?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white&amp;color=D24939" alt="icons">
           </div>
           <div>
-            <ul>
-              <li>Gitlab</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/gitlab-%43B02A?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white&amp;color=FCA121" alt="icons">
           </div>
         </td>
         <td valign="top">
           <div>
-            <ul>
-              <li>Jira</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/jira-%43B02A?style=for-the-badge&amp;logo=jira&amp;logoColor=white&amp;color=0052CC" alt="icons">
           </div>
           <div>
-            <ul>
-              <li>Org-mode</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/org_mode-%43B02A?style=for-the-badge&amp;logo=orgmode&amp;logoColor=white&amp;color=77AA99" alt="icons">
           </div>
         </td>
         <td valign="top">
           <div>
-            <ul>
-              <li>Grafana</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/grafana-%43B02A?style=for-the-badge&amp;logo=grafana&amp;logoColor=white&amp;color=F46800" alt="icons">
           </div>
           <div>
-            <ul>
-              <li>Zabbix</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/zabbix-%43B02A?style=for-the-badge&amp;logo=zabbix&amp;logoColor=white&amp;color=FF0000" alt="icons">
           </div>
           <div>
-            <ul>
-              <li>Nagios</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/nagios-%43B02A?style=for-the-badge&amp;logo=nagios&amp;logoColor=white&amp;color=CC0000" alt="icons">
           </div>
           <div>
-            <ul>
-              <li>Snort</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/snort-%43B02A?style=for-the-badge&amp;logo=snort&amp;logoColor=white&amp;color=CC0000" alt="icons">
           </div>
           <div>
-            <ul>
-              <li>Tripwire</li>
-            </ul>
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/tripwire-%43B02A?style=for-the-badge&amp;logo=tripwire&amp;logoColor=white&amp;color=CC0000" alt="icons">
           </div>
         </td>
       </tr>
