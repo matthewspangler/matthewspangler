@@ -122,15 +122,27 @@
     </tr>
       <tr>
       <td valign="top">
-          <ul>
-          <div><li>Proxmox</li></div>
-          <div><li>Kubernetes</li></div>
-          <div><li>Xenserver</li></div>
-          <div><li>Docker</li></div>
-          <div><li>Podman</li></div>
-          <div><li>KVM</li></div>
-          <div><li>Vagrant</li></div>
-          </ul>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/proxmox-%43B02A?style=for-the-badge&logo=proxmox&logoColor=white&color=E57000" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/kubernetes-%43B02A?style=for-the-badge&logo=kubernetes&logoColor=white&color=326CE5" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/xenserver-%43B02A?style=for-the-badge&logo=xenserver&logoColor=white&color=000000" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/docker-%43B02A?style=for-the-badge&logo=docker&logoColor=white&color=2496ED" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/podman-%43B02A?style=for-the-badge&logo=podman&logoColor=white&color=892CA0" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/kvm-%43B02A?style=for-the-badge&logo=kvm&logoColor=white&color=FF6600" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/vagrant-%43B02A?style=for-the-badge&logo=vagrant&logoColor=white&color=1868F2" alt="icons">
+        </div>
       </td>
       <td valign="top">
           <ul>
