@@ -195,26 +195,6 @@
     </tr>
   </table>
   </details>
-  <h1>Hobbies & Interests</h1>
-      <div><li>Pixel art</li></div>
-      <div><li>Roguelike games </li></div>
-      <div><li>Epistemology </li></div>
-      <div><li>Philosophy of science</li></div>
-      <div><li>80's synthesizers </li></div>
-      <div><li>Jazz composition </li></div>
-      <div><li>Physics </li></div>
-      <div><li>Evolutionary biology </li></div>
-      <div><li>Cybersecurity</li></div>
-  
-  <h1>Favorite Books</h1>
-  <div><li>Pale Blue Dot by Carl Sagan</li></div>
-  <div><li>The Anthropocene Reviewed by John Green</li></div>
-  <div><li>The Rebel by Albert Camus</li></div>
-  <div><li>Foundations by Isaac Asimov</li></div>
-  <div><li>The Pleasure of Finding Things Out by Richard Feynman</li></div>
-  <div><li>The Denial of Death by Earnest Becker</li></div>
-  <div><li>Dune by Frank Herbert</li></div>
-  <div><li>The History of Western Philosophy by Bertrand Russel</li></div>
   
   <h1>Custom Ricing</h1>
   <table>
@@ -244,4 +224,26 @@
       </td>
     </tr>
 </table>
+  
+    <h1>Hobbies & Interests</h1>
+      <div><li>Pixel art</li></div>
+      <div><li>Roguelike games </li></div>
+      <div><li>Epistemology </li></div>
+      <div><li>Philosophy of science</li></div>
+      <div><li>80's synthesizers </li></div>
+      <div><li>Jazz composition </li></div>
+      <div><li>Physics </li></div>
+      <div><li>Evolutionary biology </li></div>
+      <div><li>Cybersecurity</li></div>
+  
+  <h1>Favorite Books</h1>
+  <div><li>Pale Blue Dot by Carl Sagan</li></div>
+  <div><li>The Anthropocene Reviewed by John Green</li></div>
+  <div><li>The Rebel by Albert Camus</li></div>
+  <div><li>Foundations by Isaac Asimov</li></div>
+  <div><li>The Pleasure of Finding Things Out by Richard Feynman</li></div>
+  <div><li>The Denial of Death by Earnest Becker</li></div>
+  <div><li>Dune by Frank Herbert</li></div>
+  <div><li>The History of Western Philosophy by Bertrand Russel</li></div>
+  
 </body>
