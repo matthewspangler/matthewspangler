@@ -120,7 +120,7 @@
          <div> 
           <img title="HTML5" height="25" src="https://img.shields.io/badge/flipper_zero-%43B02A?style=for-the-badge&amp;logo=flipperzero&amp;logoColor=white&amp;color=000000" alt="icons">
                 </div>
-         <div
+         <div>
                         <img title="HTML5" height="25" src="https://img.shields.io/badge/hackrf-%43B02A?style=for-the-badge&amp;logo=hackrf&amp;logoColor=white&amp;color=000000" alt="icons">
                 </div>
         </td>
