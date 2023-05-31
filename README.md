@@ -166,15 +166,32 @@
     </tr>
     <tr>
       <th> Editors </th>
+      <th> CI/CD </th>
+      <th> Workflow </th>
+      <th> Monitoring </th>
     </tr>
     <tr>
-      <td>
+      <td valign="top">
         <div><li> Emacs </li></div>
         <div><li> IntelliJ 4 </li></div>
         <div><li> Visual Studio </li></div>
         <div><li> Vim </li></div>
         <div><li> Godot </li></div>
-      <td>
+      </td>
+      <td valign="top">
+        <div><li> Jenkins </li></div>
+        <div><li> Gitlab </li></div>
+      </td>
+      <td valign="top">
+        <div><li> Jira </li></div>
+        <div><li> Org-mode </li></div>
+      </td>
+      <td valign="top">
+        <div><li> Grafana </li></div>
+        <div><li> Zabbix </li></div>
+        <div><li> Nagios </li></div>
+        <div><li> Snort </li></div>
+      </td>
     </tr>
   </table>
   </details>
