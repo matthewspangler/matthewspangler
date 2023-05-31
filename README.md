@@ -101,7 +101,7 @@
             <img title="HTML5" height="25" src="https://img.shields.io/badge/aircrack_ng-%43B02A?style=for-the-badge&amp;logo=aircrack-ng&amp;logoColor=white&amp;color=1679A7" alt="icons">
           </div>
           <div>
-            <img title="HTML5" height="25" src="https://img.shields.io/badge/usb-%43B02A?style=for-the-badge&amp;logo=usb&amp;logoColor=white&amp;color=000000" alt="icons">
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/badusb-%43B02A?style=for-the-badge&amp;logo=badusb&amp;logoColor=white&amp;color=000000" alt="icons">
           </div>
         </td>
         <td valign="top">
@@ -116,6 +116,12 @@
           </div>
             <div>
                 <img title="HTML5" height="25" src="https://img.shields.io/badge/pickit4-%43B02A?style=for-the-badge&amp;logo=microchip&amp;logoColor=white&amp;color=000000" alt="icons">
+                </div>
+         <div> 
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/flipper_zero-%43B02A?style=for-the-badge&amp;logo=flipperzero&amp;logoColor=white&amp;color=000000" alt="icons">
+                </div>
+         <div
+                        <img title="HTML5" height="25" src="https://img.shields.io/badge/hackrf-%43B02A?style=for-the-badge&amp;logo=hackrf&amp;logoColor=white&amp;color=000000" alt="icons">
                 </div>
         </td>
       </tr>
