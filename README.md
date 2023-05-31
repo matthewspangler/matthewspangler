@@ -15,7 +15,6 @@
     <p>I'm a self-aware composite life form comprised of trillions of interdependent microorganisms, a contemporary link in a 4 billion year self-replicating carbon-based chemical process. I am a curious being who enjoys contemplating how we fit into the grander scheme of things and how the world's many complex systems work.</p>
   </div>
   <h1>Skills</h1>
-  <details>
     <table>
       <tr>
         <th>Programming Languages</th>
@@ -184,9 +183,7 @@
         </td>
       </tr>
     </table>
-  </details>
   <h1>Custom Ricing</h1>
-  <details>
     <table>
       <tr>
         <th>i3wm</th>
@@ -205,9 +202,7 @@
         <td valign="top"><img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/dotfiles/awesomewm/screenshot.png" alt="icons"></td>
       </tr>
     </table>
-  </details>
   <h1>Interests</h1>
-  <details>
     <div>
       <ul>
         <li>Pixel art</li>
@@ -294,6 +289,5 @@
         <li>The History of Western Philosophy by Bertrand Russel</li>
       </ul>
     </div>
-  </details>
 </body>
 </html>
