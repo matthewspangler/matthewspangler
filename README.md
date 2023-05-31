@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title></title>
-</head>
+
 <body>
   <div class="c1">
     <div align="center">
