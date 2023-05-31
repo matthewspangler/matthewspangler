@@ -236,8 +236,8 @@
     </tr>
     <tr>
       <td valign="top">
-        <img title="HTML5" width="256" src="https://raw.githubusercontent.com/matthewspangler/dotfiles/qtile/screenshot2.png" alt="icons">
-  <img title="HTML5" width="256" src="https://raw.githubusercontent.com/matthewspangler/dotfiles/qtile/screenshot.png" alt="icons">
+        <img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/dotfiles/qtile/screenshot2.png" alt="icons">
+  <img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/dotfiles/qtile/screenshot.png" alt="icons">
       </td>
       <td valign="top">
         <img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/dotfiles/awesomewm/screenshot.png" alt="icons">
