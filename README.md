@@ -26,7 +26,6 @@
     </tr>
     <tr>
       <td valign="top">
-      <ul>
         <div>
           <img title="C" height="25" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white" alt="icons">
         </div>
@@ -57,7 +56,6 @@
         <div>
           <img title="CSS" height="25" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="icons">
         </div>
-        </ul>
       </td>
       <td valign="top">
         <div>
