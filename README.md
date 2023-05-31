@@ -172,13 +172,13 @@
             <img title="HTML5" height="25" src="https://img.shields.io/badge/zabbix-%43B02A?style=for-the-badge&amp;logo=zabbix&amp;logoColor=white&amp;color=FF0000" alt="icons">
           </div>
           <div>
-            <img title="HTML5" height="25" src="https://img.shields.io/badge/nagios-%43B02A?style=for-the-badge&amp;logo=nagios&amp;logoColor=white&amp;color=CC0000" alt="icons">
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/nagios-%43B02A?style=for-the-badge&amp;logo=nagios&amp;logoColor=white&amp;color=006600" alt="icons">
           </div>
           <div>
-            <img title="HTML5" height="25" src="https://img.shields.io/badge/snort-%43B02A?style=for-the-badge&amp;logo=snort&amp;logoColor=white&amp;color=CC0000" alt="icons">
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/snort-%43B02A?style=for-the-badge&amp;logo=snort&amp;logoColor=white&amp;color=1A1A1A" alt="icons">
           </div>
           <div>
-            <img title="HTML5" height="25" src="https://img.shields.io/badge/tripwire-%43B02A?style=for-the-badge&amp;logo=tripwire&amp;logoColor=white&amp;color=CC0000" alt="icons">
+            <img title="HTML5" height="25" src="https://img.shields.io/badge/tripwire-%43B02A?style=for-the-badge&amp;logo=tripwire&amp;logoColor=white&amp;color=999999" alt="icons">
           </div>
         </td>
       </tr>
