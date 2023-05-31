@@ -248,6 +248,6 @@
   <div><li>The Denial of Death by Earnest Becker</li></div>
   <div><li>Dune by Frank Herbert</li></div>
   <div><li>The History of Western Philosophy by Bertrand Russel</li></div>
-    <details>
+    </details>
   
 </body>
