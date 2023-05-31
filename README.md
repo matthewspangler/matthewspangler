@@ -227,7 +227,8 @@
 </table>
   </details>
   
-  <h1>Hobbies & Interests</h1>
+  <h1>Interests</h1>
+  <details>
     <div><li>Pixel art</li></div>
     <div><li>Roguelike games </li></div>
     <div><li>Epistemology </li></div>
@@ -238,7 +239,7 @@
     <div><li>Evolutionary biology </li></div>
     <div><li>Cybersecurity</li></div>
   
-  <h1>Favorite Books</h1>
+  <h2>Favorite Books</h2>
   <div><li>Pale Blue Dot by Carl Sagan</li></div>
   <div><li>The Anthropocene Reviewed by John Green</li></div>
   <div><li>The Rebel by Albert Camus</li></div>
@@ -247,5 +248,6 @@
   <div><li>The Denial of Death by Earnest Becker</li></div>
   <div><li>Dune by Frank Herbert</li></div>
   <div><li>The History of Western Philosophy by Bertrand Russel</li></div>
+    <details>
   
 </body>
