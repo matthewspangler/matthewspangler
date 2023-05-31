@@ -3,7 +3,7 @@
 <body>
   <div class="c1">
     <div align="center">
-      <h1>Matthew Spangler</h1><em>Software Engineer, Hacker, Musician, Philosopher</em>
+      <h1>Matthew Spangler</h1><em>Software Engineer, Hacker, Musician, Philosopher, Neurodivergent</em>
       <p><em>General Class Ham Radio License: KF5LDW</em></p>
       <div>
         <a href="https://www.linkedin.com/in/mattspangler-tech/"><img height="30" src="https://skillicons.dev/icons?i=linkedin" alt="icons"></a> &nbsp;&nbsp; <a href="https://unix.stackexchange.com/users/572504/nebulasurfer/"><img height="30" src="https://skillicons.dev/icons?i=stackoverflow" alt="icons"></a> &nbsp;&nbsp;
