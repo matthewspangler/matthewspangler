@@ -100,12 +100,18 @@
         </div>
       </td>
       <td valign="top">
-          <div><li>Qubes OS</li></div>
-          <div><li>Coreboot</li></div>
-          <div><li>OpenPGP & GnuPG</li></div>
-          <div><li>Air gapped systems</li></div>
-          <div><li>Security tokens</li></div>
-          <div><li>SELinux</li></div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/qubes_os-%43B02A?style=for-the-badge&logo=qubesos&logoColor=white&color=00B5E2" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/coreboot-%43B02A?style=for-the-badge&logo=coreboot&logoColor=white&color=00B5E2" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/gnupg-%43B02A?style=for-the-badge&logo=gnuprivacyguard&logoColor=white&color=0093DD" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/selinux-%43B02A?style=for-the-badge&logo=selinux&logoColor=white&color=FCC624" alt="icons">
+        </div>
       </td>
     </tr>
     <tr>
