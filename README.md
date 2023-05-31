@@ -196,7 +196,6 @@
   </table>
   </details>
   <h1>Hobbies & Interests</h1>
-      <div><li>Custom ricing on 'nix </li></div>
       <div><li>Pixel art</li></div>
       <div><li>Roguelike games </li></div>
       <div><li>Epistemology </li></div>
@@ -216,4 +215,33 @@
   <div><li>The Denial of Death by Earnest Becker</li></div>
   <div><li>Dune by Frank Herbert</li></div>
   <div><li>The History of Western Philosophy by Bertrand Russel</li></div>
+  
+  <h1>Custom Ricing</h1>
+  <table>
+  <tr>
+      <th> i3wm </th>
+      <th> bspwm </th>
+    </tr>
+    <tr>
+      <td valign="top">
+        <img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/i3wm-retrowave-dotfiles/master/screenshot.jpg" alt="icons">
+      </td>
+      <td valign="top">
+        <img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/bspwm-laputa-dotfiles/master/screenshot.png" alt="icons">
+      </td>
+   </tr>
+   <tr>
+      <th> qtile </th>
+      <th> awesomewm </th>
+    </tr>
+    <tr>
+      <td valign="top">
+        <img title="HTML5" width="256" src="https://raw.githubusercontent.com/matthewspangler/dotfiles/qtile/screenshot2.png" alt="icons">
+  <img title="HTML5" width="256" src="https://raw.githubusercontent.com/matthewspangler/dotfiles/qtile/screenshot.png" alt="icons">
+      </td>
+      <td valign="top">
+        <img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/dotfiles/awesomewm/screenshot.png" alt="icons">
+      </td>
+    </tr>
+</table>
 </body>
