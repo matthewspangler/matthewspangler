@@ -158,7 +158,7 @@
          <ul>
            <div><li> Raspberry Pi </li></div>
            <div><li> Arduino </li></div>
-           <div><li> z80 circuits & asm </li></div>
+           <div><li> z80 processors </li></div>
            <div><li> Radio electronics </li></div>
            <div><li> Pickit 4 </li></div>
          </ul>
