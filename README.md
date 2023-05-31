@@ -144,14 +144,35 @@
       </td>
       <td valign="top">
           <ul>
-          <div><li>Arch Linux</li></div>
-          <div><li>Debian</li></div>
-          <div><li>RHEL</li></div>
-          <div><li>openSUSE</li></div>
-          <div><li>FreeBSD</li></div>
-          <div><li>Immutable systems</li></div>
-          <div><li>Declarative systems</li></div>
-          <div><li>Building packages</li></div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/arch_linux-%43B02A?style=for-the-badge&logo=archlinux&logoColor=white&color=1793D1" alt="icons">
+        </div>
+        
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/debian-%43B02A?style=for-the-badge&logo=debian&logoColor=white&color=A81D33" alt="icons">
+        </div>
+        <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/arch_linux-%43B02A?style=for-the-badge&logo=archlinux&logoColor=white&color=1793D1" alt="icons">
+        </div>
+            <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/Red Hat Enterprise Linux-%43B02A?style=for-the-badge&logo=redhat&logoColor=white&color=EE0000" alt="icons">
+        </div>
+            <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/opensuse-%43B02A?style=for-the-badge&logo=opensuse&logoColor=white&color=73BA25" alt="icons">
+        </div>
+            <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/freebsd-%43B02A?style=for-the-badge&logo=freebsd&logoColor=white&color=AB2B28" alt="icons">
+        </div>
+            <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/arch_linux-%43B02A?style=for-the-badge&logo=archlinux&logoColor=white&color=1793D1" alt="icons">
+        </div>
+            <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/arch_linux-%43B02A?style=for-the-badge&logo=archlinux&logoColor=white&color=1793D1" alt="icons">
+        </div>
+                    <div>
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/flatpak-%43B02A?style=for-the-badge&logo=flatpak&logoColor=white&color=1793D1" alt="icons">
+        </div>
+         
           </ul>
         </td>
        <td valign="top">
