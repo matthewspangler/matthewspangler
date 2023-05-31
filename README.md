@@ -115,10 +115,10 @@
             <img title="HTML5" height="25" src="https://img.shields.io/badge/z80-%43B02A?style=for-the-badge&amp;logo=Z80&amp;logoColor=white&amp;color=000000" alt="icons">
           </div>
             <div>
-                <img title="HTML5" height="25" src="https://img.shields.io/badge/pickit4-%43B02A?style=for-the-badge&amp;logo=microchip&amp;logoColor=white&amp;color=000000" alt="icons">
+                <img title="HTML5" height="25" src="https://img.shields.io/badge/microchip_pickit_4-%43B02A?style=for-the-badge&amp;logo=microchip&amp;logoColor=white&amp;color=F80000" alt="icons">
                 </div>
          <div> 
-          <img title="HTML5" height="25" src="https://img.shields.io/badge/flipper_zero-%43B02A?style=for-the-badge&amp;logo=flipperzero&amp;logoColor=white&amp;color=000000" alt="icons">
+          <img title="HTML5" height="25" src="https://img.shields.io/badge/flipper_zero-%43B02A?style=for-the-badge&amp;logo=flipperzero&amp;logoColor=white&amp;color=FF6600" alt="icons">
                 </div>
          <div>
                         <img title="HTML5" height="25" src="https://img.shields.io/badge/hackrf-%43B02A?style=for-the-badge&amp;logo=hackrf&amp;logoColor=white&amp;color=000000" alt="icons">
