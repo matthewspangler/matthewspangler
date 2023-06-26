@@ -55,6 +55,7 @@
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/qubes_os-%43B02A?style=for-the-badge&amp;logo=qubesos&amp;logoColor=white&amp;color=00B5E2" alt="icons"></div>
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/coreboot-%43B02A?style=for-the-badge&amp;logo=coreboot&amp;logoColor=white&amp;color=grey" alt="icons"></div>
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/gnupg-%43B02A?style=for-the-badge&amp;logo=gnuprivacyguard&amp;logoColor=white&amp;color=0093DD" alt="icons"></div>
+          <div><img title="HTML5" height="25" src="https://img.shields.io/badge/yubikeys-%43B02A?style=for-the-badge&amp;logo=yubico&amp;logoColor=white&amp;color=84BD00" alt="icons"></div>
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/selinux-%43B02A?style=for-the-badge&amp;logo=selinux&amp;logoColor=white&amp;color=FCC624" alt="icons"></div>
         </td>
       </tr>
