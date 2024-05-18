@@ -76,7 +76,6 @@
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/vagrant-%43B02A?style=for-the-badge&amp;logo=vagrant&amp;logoColor=white&amp;color=1868F2" alt="icons"></div>
         </td>
         <td valign="top">
-          <div><img title="HTML5" height="25" src="https://img.shields.io/badge/arch_linux-%43B02A?style=for-the-badge&amp;logo=archlinux&amp;logoColor=white&amp;color=1793D1" alt="icons"></div>
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/debian-%43B02A?style=for-the-badge&amp;logo=debian&amp;logoColor=white&amp;color=A81D33" alt="icons"></div>
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/arch_linux-%43B02A?style=for-the-badge&amp;logo=archlinux&amp;logoColor=white&amp;color=1793D1" alt="icons"></div>
           <div><img title="HTML5" height="25" src="https://img.shields.io/badge/Red%20Hat%20Enterprise%20Linux-%43B02A?style=for-the-badge&amp;logo=redhat&amp;logoColor=white&amp;color=EE0000" alt="icons"></div>
