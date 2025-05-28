@@ -234,16 +234,6 @@
         <li>War and Peace by Leo Tolstoy</li>
       </ul>
     </div>
-    <div>
-      <ul>
-        <li>Systematic Theology Volume 1 by Paul Tillich</li>
-      </ul>
-    </div>
-    <div>
-      <ul>
-        <li>Liberation Theology by Gustavo Gutiérrez</li>
-      </ul>
-    </div>
      <div>
       <ul>
         <li>The Structure of Evolutionary Theory by Stephen Jay Gould</li>
