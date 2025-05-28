@@ -248,7 +248,7 @@
         <li>Cybersecurity</li>
       </ul>
     </div>
-    <h2>Favorite Books</h2>
+    <h2>Some of my favorite books!</h2>
     <div>
       <ul>
         <li>Pale Blue Dot by Carl Sagan</li>
@@ -259,9 +259,29 @@
         <li>The Anthropocene Reviewed by John Green</li>
       </ul>
     </div>
+     <div>
+      <ul>
+        <li>Philosophy and the Mirror of Nature by Richard Rorty</li>
+      </ul>
+    </div>
+     <div>
+      <ul>
+        <li>War and Peace by Leo Tolstoy</li>
+      </ul>
+    </div>
     <div>
       <ul>
-        <li>The Rebel by Albert Camus</li>
+        <li>Systematic Theology Volume 1 by Paul Tillich</li>
+      </ul>
+    </div>
+    <div>
+      <ul>
+        <li>Liberation Theology by Gustavo Gutiérrez</li>
+      </ul>
+    </div>
+     <div>
+      <ul>
+        <li>The Structure of Evolutionary Theory by Stephen Jay Gould</li>
       </ul>
     </div>
     <div>
@@ -286,7 +306,7 @@
     </div>
     <div>
       <ul>
-        <li>The History of Western Philosophy by Bertrand Russel</li>
+        <li>A New History of Western Philosophy by Anthony Kenny</li>
       </ul>
     </div>
 </body>
