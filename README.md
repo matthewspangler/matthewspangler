@@ -218,9 +218,19 @@
         <li>Epistemology</li>
       </ul>
     </div>
+     <div>
+      <ul>
+        <li>Sociology</li>
+      </ul>
+    </div>
     <div>
       <ul>
         <li>Philosophy of science</li>
+      </ul>
+    </div>
+     <div>
+      <ul>
+        <li>Philosophy of religion</li>
       </ul>
     </div>
     <div>
@@ -246,6 +256,11 @@
     <div>
       <ul>
         <li>Cybersecurity</li>
+      </ul>
+    </div>
+     <div>
+      <ul>
+        <li>Hacking</li>
       </ul>
     </div>
     <h2>Some of my favorite books!</h2>
