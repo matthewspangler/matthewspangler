@@ -198,66 +198,21 @@
       </tr>
     </table>
   <h1>Interests</h1>
-    <div>
-      <ul>
-        <li>Pixel art</li>
-      </ul>
-    </div>
-    <div>
-      <ul>
-        <li>Roguelike games</li>
-      </ul>
-    </div>
-    <div>
-      <ul>
-        <li>Epistemology</li>
-      </ul>
-    </div>
-     <div>
-      <ul>
-        <li>Sociology</li>
-      </ul>
-    </div>
-    <div>
-      <ul>
-        <li>Philosophy of science</li>
-      </ul>
-    </div>
-     <div>
-      <ul>
-        <li>Philosophy of religion</li>
-      </ul>
-    </div>
-    <div>
-      <ul>
-        <li>80's synthesizers</li>
-      </ul>
-    </div>
-    <div>
-      <ul>
-        <li>Jazz composition</li>
-      </ul>
-    </div>
-    <div>
-      <ul>
-        <li>Physics</li>
-      </ul>
-    </div>
-    <div>
-      <ul>
-        <li>Evolutionary biology</li>
-      </ul>
-    </div>
-    <div>
-      <ul>
-        <li>Cybersecurity</li>
-      </ul>
-    </div>
-     <div>
-      <ul>
-        <li>Hacking</li>
-      </ul>
-    </div>
+<div>
+  <div style="display: inline-block; margin-right: 5px;"><img title="Pixel art" height="20" src="https://img.shields.io/badge/Pixel_Art-ED1C24?style=flat"></div>
+  <div style="display: inline-block; margin-right: 5px;"><img title="Roguelike games" height="20" src="https://img.shields.io/badge/Roguelike_Games-2F8A1A?style=flat"></div>
+  <div style="display: inline-block; margin-right: 5px;"><img title="Epistemology" height="20" src="https://img.shields.io/badge/Epistemology-3498DB?style=flat"></div>
+  <div style="display: inline-block; margin-right: 5px;"><img title="Sociology" height="20" src="https://img.shields.io/badge/Sociology-E74C3C?style=flat"></div>
+  <div style="display: inline-block; margin-right: 5px;"><img title="Philosophy of science" height="20" src="https://img.shields.io/badge/Philosophy_of_Science-2F4F7F?style=flat"></div>
+  <div style="display: inline-block; margin-right: 5px;"><img title="Philosophy of religion" height="20" src="https://img.shields.io/badge/Philosophy_of_Religion-8B9467?style=flat"></div>
+  <div style="display: inline-block; margin-right: 5px;"><img title="80's synthesizers" height="20" src="https://img.shields.io/badge/80s_Synthesizers-FF69B4?style=flat"></div>
+  <div style="display: inline-block; margin-right: 5px;"><img title="Jazz composition" height="20" src="https://img.shields.io/badge/Jazz_Composition-3B3F54?style=flat"></div>
+  <div style="display: inline-block; margin-right: 5px;"><img title="Physics" height="20" src="https://img.shields.io/badge/Physics-1DA1F2?style=flat"></div>
+  <div style="display: inline-block; margin-right: 5px;"><img title="Evolutionary biology" height="20" src="https://img.shields.io/badge/Evolutionary_Biology-6F4E37?style=flat"></div>
+  <div style="display: inline-block; margin-right: 5px;"><img title="Cybersecurity" height="20" src="https://img.shields.io/badge/Cybersecurity-5C6BC0?style=flat"></div>
+  <div style="display: inline-block; margin-right: 5px;"><img title="Hacking" height="20" src="https://img.shields.io/badge/Hacking-FFA07A?style=flat"></div>
+  <div style="display: inline-block; margin-right: 5px;"><img title="DIY electronics" height="20" src="https://img.shields.io/badge/DIY_Electronics-CC5500?style=flat"></div>
+</div>
     <h2>Some of my favorite books!</h2>
     <div>
       <ul>
