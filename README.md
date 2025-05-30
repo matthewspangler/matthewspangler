@@ -186,7 +186,6 @@
       </tr>
       <tr>
         <td valign="top"><img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/i3wm-retrowave-dotfiles/master/screenshot.jpg" alt="icons"></td>
-        <td valign="top"><img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/bspwm-laputa-dotfiles/master/screenshot.png" alt="icons"></td>
       </tr>
       <tr>
         <th>qtile</th>
@@ -195,6 +194,12 @@
       <tr>
         <td valign="top"><img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/dotfiles/qtile/screenshot2.png" alt="icons"> <img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/dotfiles/qtile/screenshot.png" alt="icons"></td>
         <td valign="top"><img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/dotfiles/awesomewm/screenshot.png" alt="icons"></td>
+      </tr>
+      <tr>
+        <th>swaywm</th>
+      </tr>
+      <tr>
+        <td valign="top"><img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/nixos-starship/refs/heads/main/swaywm.png" alt="icons"> <img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/nixos-starship/refs/heads/main/swaywm.png" alt="icons"></td>
       </tr>
     </table>
   <h1>Interests</h1>
