@@ -186,6 +186,7 @@
       </tr>
       <tr>
         <td valign="top"><img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/i3wm-retrowave-dotfiles/master/screenshot.jpg" alt="icons"></td>
+        <td valign="top"><img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/bspwm-laputa-dotfiles/master/screenshot.png" alt="icons"></td>
       </tr>
       <tr>
         <th>qtile</th>
