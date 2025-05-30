@@ -199,7 +199,7 @@
         <th>swaywm</th>
       </tr>
       <tr>
-        <td valign="top"><img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/nixos-starship/refs/heads/main/swaywm.png" alt="icons"> <img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/nixos-starship/refs/heads/main/swaywm.png" alt="icons"></td>
+        <td valign="top"><img title="HTML5" width="512" src="https://raw.githubusercontent.com/matthewspangler/nixos-starship/refs/heads/main/swaywm.png" alt="icons"><img width="512"></td>
       </tr>
     </table>
   <h1>Interests</h1>
